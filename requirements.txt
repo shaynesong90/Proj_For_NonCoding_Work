@@ -1,0 +1,7 @@
+pandas
+matplotlib
+fastapi
+uvicorn
+python-pptx
+# matlabengine
+pyyaml

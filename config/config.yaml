@@ -1,0 +1,9 @@
+codex:
+  model: gpt-5-codex
+
+agent:
+  retry: 2
+  timeout: 60
+
+matlab:
+  mode: subprocess
